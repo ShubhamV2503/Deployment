@@ -15,8 +15,9 @@ This project demonstrates how to fine-tune a GPT-2 language model using Hugging 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/llm-wandb-demo.git
-cd llm-wandb-demo
+git clone https://github.com/yourusername/Deployment.git
+cd Deployment
+cd wandb
 ```
 
 ### 2. Install dependencies
