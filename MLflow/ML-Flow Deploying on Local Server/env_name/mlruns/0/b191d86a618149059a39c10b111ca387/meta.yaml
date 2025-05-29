@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joyboy/Downloads/pp/env_name/mlruns/0/b191d86a618149059a39c10b111ca387/artifacts
+end_time: 1748543598285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b191d86a618149059a39c10b111ca387
+run_name: agreeable-chimp-315
+run_uuid: b191d86a618149059a39c10b111ca387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748543596639
+status: 3
+tags: []
+user_id: joyboy

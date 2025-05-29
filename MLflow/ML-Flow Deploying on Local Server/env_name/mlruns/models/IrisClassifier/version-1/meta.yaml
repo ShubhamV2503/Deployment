@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748543598283
+current_stage: None
+description: null
+last_updated_timestamp: 1748543598283
+name: IrisClassifier
+run_id: b191d86a618149059a39c10b111ca387
+run_link: null
+source: file:///Users/joyboy/Downloads/pp/env_name/mlruns/0/b191d86a618149059a39c10b111ca387/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: file:///Users/joyboy/Downloads/pp/env_name/mlruns/0/b191d86a618149059a39c10b111ca387/artifacts/iris_model
+user_id: null
+version: 1
